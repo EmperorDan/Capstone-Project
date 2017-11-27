@@ -1,6 +1,6 @@
 # DUGGER TUCKER
 
-##Introduction
+## Introduction
 
 Dugger Tucker is about a man named Tucker. It starts off with him sitting on his sofa, watching TV. His show then gets interrupted by an emergency message declaring the world is ending. He runs to the basement and barricades himself within. 
 After waiting in his basements for a couple weeks and expending his supplies, he’s forced to leave. Upon trying to exit his basement he realises something is blocking the hatch, and that he’s trapped. Looking around the room he spots his Grampa’s shovel, and has a terrible idea.
