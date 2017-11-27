@@ -93,6 +93,6 @@ After waiting in his basements for a couple weeks and expending his supplies, he
 -	Player will only see what their character would see, meaning that all places that the player character is not appear pitch black (except from basement as it is the hub)
 
 -	There will be two basements that will be encountered when digging has started. They will consist of:
---	Basement-01: This basement will introduce the combat mechanic. Upon entering the player will be met with a Psychopath. A Pipe will fall from the roof and the player will be told to pick it up. The Pipe will automatically equip and a dialogue box, displaying the combat controls, will pop up. After killing the Psychopath your sanity bar will decrease by 25%.  
---- Melee Combat: Start with a basic up/down hitting animation. There will be various combat techniques depending on your weapon.
---	Basement-02: This basement will introduce the health and sanity bar. Upon entering the player will see a Med kit and a comic. The player will be prompted to pick both of these items up. After picking them up a dialogue box explaining their use will appear.  
+  -	Basement-01: This basement will introduce the combat mechanic. Upon entering the player will be met with a Psychopath. A Pipe will fall from the roof and the player will be told to pick it up. The Pipe will automatically equip and a dialogue box, displaying the combat controls, will pop up. After killing the Psychopath your sanity bar will decrease by 25%.  
+    - Melee Combat: Start with a basic up/down hitting animation. There will be various combat techniques depending on your weapon.
+  -	Basement-02: This basement will introduce the health and sanity bar. Upon entering the player will see a Med kit and a comic. The player will be prompted to pick both of these items up. After picking them up a dialogue box explaining their use will appear.  
